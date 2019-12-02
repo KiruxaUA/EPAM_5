@@ -1,3 +1,5 @@
+package ua.epam4;
+
 import ua.epam4.HeightBalancedBST;
 import org.junit.Test;
 

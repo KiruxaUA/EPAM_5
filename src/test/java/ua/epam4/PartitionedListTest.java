@@ -1,3 +1,5 @@
+package ua.epam4;
+
 import ua.epam4.PartitionedList;
 import org.junit.Test;
 import java.util.Arrays;
